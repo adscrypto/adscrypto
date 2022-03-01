@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @adscrypto
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Git
